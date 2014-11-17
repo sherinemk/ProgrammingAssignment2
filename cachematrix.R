@@ -1,4 +1,4 @@
-## This file has 2 functions as described below
+## 2 functions as described below
 ##makeCacheMatrix is used to create a special object that stores a matrix and cacheSolve caches its inverse
 
 ## makeCacheMatrix - This function takes a matrix and defines a list of getter and setter functions as listed below
